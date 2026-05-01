@@ -1,33 +1,26 @@
 # Asteroids
+An Asteroids-like game built as part of the [Build Asteroids with Python and PyGame](https://www.boot.dev/courses/build-asteroids-python) Guided Project on Boot.dev.
 
-An Asteroids-like game built as part of [Boot.dev's Build Asteroids with Python and PyGame Guided Project](https://www.boot.dev/courses/build-asteroids-python).
-
+## Requirements
+- Python 3.x
+- Pygame
+  
 ## Installation
-
 ```bash
 pip install pygame
 ```
 
 ## Running the Game
-
 ```bash
 python main.py
 ```
 
 ## Gameplay
-
 - Pilot a spaceship and survive waves of incoming asteroids
 - Shoot asteroids to split and destroy them
 - The game ends when an asteroid collides with your ship
 
-## Requirements
-
-- Python 3.x
-- Pygame
-
-
 ## Controls
-
 | Key | Action |
 |-----|--------|
 | W / Up Arrow | Move forward |
